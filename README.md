@@ -20,12 +20,12 @@
 ---
 
 ## 📊 GitHub Stats
-![Faris's GitHub stats](https://github-readme-stats.vercel.app/api?username=farisedrikprayoga&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farisedrikprayoga&layout=compact&theme=radical)  
+![Faris's GitHub stats](https://github-readme-stats.vercel.app/api?username=rissss21&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rissss21&layout=compact&theme=radical)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=farisedrikprayoga&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rissss21&theme=radical)  
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=farisedrikprayoga&theme=react-dark)  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rissss21&theme=react-dark)  
 
 ---
 
