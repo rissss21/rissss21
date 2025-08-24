@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7AB0A&width=435&lines=Hi%2C+I'm+Faris!;Software+Developer;Tech+Explorer;AI+%2F+ML+Enthusiast)](https://git.io/typing-svg)
 
-💡 Love turning ideas into code, building apps, and playing around with AI/ML.  
-🌱 Currently learning **Next.js, Machine Learning, and Cloud Stuff**.  
-🎯 Goal: Keep improving, contribute to open-source, and create cool digital products.  
+💡 Passionate about crafting mobile apps and building modern web experiences.  
+🌱 Currently exploring **Flutter, Next.js, and UI/UX design principles**.  
+🎯 Goal: Deliver smooth user experiences, grow as a full-stack developer, and build apps that people love to use.   
 
 ---
 
