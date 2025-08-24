@@ -31,6 +31,3 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/farisedrikprayoga/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white)](https://rissss21.github.io/portofolio/)
 
----
-
-✨ _“Code is like humor. If you have to explain it, it’s bad.”_ – Cory House
